@@ -230,5 +230,5 @@ The clustering analysis helps identify player profiles such as:
 
 
 ## 👩‍💻 Author
-Akanksha Srivastava
-Data Science & Machine Learning Enthusiast
+* Akanksha Srivastava
+* Data Science & Machine Learning Enthusiast
