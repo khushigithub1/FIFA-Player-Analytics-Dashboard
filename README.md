@@ -116,11 +116,11 @@ The target variable is:overall
 ---
 
 ## 📈 Model Performance
-Model	R² Score
-Linear Regression	0.791393
-XGBoost	0.923355
-Neural Network	0.921643
-XGBoost Deployment Model	0.949680
+* Model	R² Score
+* Linear Regression	0.791393
+* XGBoost	0.923355
+* Neural Network	0.921643
+* XGBoost Deployment Model	0.949680
 
 ## 📊 Key Findings
 - XGBoost outperformed the baseline Linear Regression model.
@@ -146,7 +146,7 @@ The XGBoost Regressor was selected as the final deployment model with:
 
 * K-Means clustering was applied to group players into 5 clusters based on player characteristics and performance-related attributes.
 
-The clustering analysis helps identify player profiles such as:
+* The clustering analysis helps identify player profiles such as:
 
 - Elite / high-performing players
 - High-potential developing players
