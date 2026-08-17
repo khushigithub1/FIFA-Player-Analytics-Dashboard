@@ -225,8 +225,8 @@ The clustering analysis helps identify player profiles such as:
 
 
 ## 📬 Connect With Me
-LinkedIn: https://www.linkedin.com/in/akanksha-srivastava-20a43623b
-GitHub: https://github.com/khushigithub1
+* LinkedIn: https://www.linkedin.com/in/akanksha-srivastava-20a43623b
+* GitHub: https://github.com/khushigithub1
 
 
 ## 👩‍💻 Author
